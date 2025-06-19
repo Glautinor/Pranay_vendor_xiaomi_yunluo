@@ -7,8 +7,8 @@ soong_namespace {
 		"device/xiaomi/yunluo",
 		"hardware/mediatek",
 		"hardware/mediatek/libmtkperf_client",
-		"hardware/statix/interfaces/power-libperfmgr",
-		"vendor/hardware/xiaomi",
+		"hardware/infinity/interfaces/power-libperfmgr",
+		"hardware/xiaomi",
 	],
 }
 
