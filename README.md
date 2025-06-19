@@ -1,4 +1,4 @@
-# vendor tree for the Redmi Pad (yunluo)
+# Vendor tree for the Redmi Pad (yunluo)
 
 ## Device specifications
 
